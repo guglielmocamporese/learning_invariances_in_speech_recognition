@@ -24,5 +24,4 @@ In this work I investigate the speech command task developing and analyzing deep
 ![cnn_inc](https://user-images.githubusercontent.com/31989563/42893367-6fbb8f76-8ab4-11e8-8872-1650ec0facbf.png)
 
 # Results
-
-
+![results](https://user-images.githubusercontent.com/31989563/42893680-53b8f01a-8ab5-11e8-8370-d70820df5555.png)
